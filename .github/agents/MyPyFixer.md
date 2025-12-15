@@ -1,7 +1,7 @@
 ---
 name: MypyFixer
 description: A specialist agent for resolving type-checking errors across the repository.
-tools: ["read", "edit", "test", "shell"]
+tools: ["read", "edit", "test", "execute"]
 ---
 
 # Agent Instructions: MypyFixer
